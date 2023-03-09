@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "roleplayinglife.github.io/static/css/main.c65623f0.chunk.css",
+    "main.js": "roleplayinglife.github.io/static/js/main.4c2783de.chunk.js",
+    "main.js.map": "roleplayinglife.github.io/static/js/main.4c2783de.chunk.js.map",
+    "runtime~main.js": "roleplayinglife.github.io/static/js/runtime~main.a3660d80.js",
+    "runtime~main.js.map": "roleplayinglife.github.io/static/js/runtime~main.a3660d80.js.map",
+    "static/js/2.ce249680.chunk.js": "roleplayinglife.github.io/static/js/2.ce249680.chunk.js",
+    "static/js/2.ce249680.chunk.js.map": "roleplayinglife.github.io/static/js/2.ce249680.chunk.js.map",
+    "index.html": "roleplayinglife.github.io/index.html",
+    "precache-manifest.0570560cc9eccc2cb10d7e24d736a3ca.js": "roleplayinglife.github.io/precache-manifest.0570560cc9eccc2cb10d7e24d736a3ca.js",
+    "service-worker.js": "roleplayinglife.github.io/service-worker.js",
+    "static/css/main.c65623f0.chunk.css.map": "roleplayinglife.github.io/static/css/main.c65623f0.chunk.css.map",
+    "static/media/The-Witcher-3-Wild-Hunt-Sword-of-Destiny.mp3": "roleplayinglife.github.io/static/media/The-Witcher-3-Wild-Hunt-Sword-of-Destiny.c4461588.mp3",
+    "static/media/all-programs.ico": "roleplayinglife.github.io/static/media/all-programs.a48640a2.ico",
+    "static/media/error.wav": "roleplayinglife.github.io/static/media/error.199b5352.wav",
+    "static/media/find.svg": "roleplayinglife.github.io/static/media/find.cfc00209.svg",
+    "static/media/narrator.ico": "roleplayinglife.github.io/static/media/narrator.e23232f0.ico",
+    "static/media/restart.ico": "roleplayinglife.github.io/static/media/restart.bfcfd28f.ico",
+    "static/media/restore.ico": "roleplayinglife.github.io/static/media/restore.8e8ae78a.ico",
+    "static/media/smile.svg": "roleplayinglife.github.io/static/media/smile.33211a17.svg",
+    "static/media/under-construction.png": "roleplayinglife.github.io/static/media/under-construction.af24f452.png",
+    "static/media/view-info.ico": "roleplayinglife.github.io/static/media/view-info.415b027d.ico"
+  }
+}
